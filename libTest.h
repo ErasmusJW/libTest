@@ -1,4 +1,4 @@
 const char * WatseKopIsGerHard()
 {
-    return "Gerhard is 'n doos, changed a file but didn't update library.json";
+    return "Gerhard is 'n ass, changed a file  updated library.json didn't change version";
 }
