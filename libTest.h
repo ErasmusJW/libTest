@@ -1,4 +1,4 @@
 const char * WatseKopIsGerHard()
 {
-    return "Change file not version";
+    return "Change file and version";
 }
