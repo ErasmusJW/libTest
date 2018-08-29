@@ -1,0 +1,25 @@
+{
+  "name": "libTest",
+  "keywords": "test",
+  "description": "TestLib For PlatformIO",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/milesburton/Arduino-Temperature-Control-Library.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Jacques Erasmus",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Zeppelin15/libTest.git"
+  },
+  "version": "1.0.0",
+  "frameworks": "*",
+  "platforms": "*"
+}
