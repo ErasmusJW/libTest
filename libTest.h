@@ -1,4 +1,4 @@
 const char * WatseKopIsGerHard()
 {
-    return "Gerhard is 'n domkop";
+    return "Gerhard is 'n poeskop";
 }
