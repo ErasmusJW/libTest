@@ -1,0 +1,4 @@
+{
+    "name" : "libTest",
+    "macros": ["MYMOD_MACRO1", "MYMOD_MACRO2=\"Macro in LibTest\""],
+}
