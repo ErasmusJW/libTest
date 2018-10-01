@@ -1,4 +1,14 @@
 {
     "name" : "libTest",
-    "macros": ["MYMOD_MACRO1", "MYMOD_MACRO2=\"Macro in LibTest\""],
+    "config" :{
+        "test_value_1": {
+            "help": "test value in libTest",
+            "value" : 50
+        },
+        "test_value_2": {
+            "help": "test value in libTest that is required",
+            "required" : true
+		}
+    },
+    "macros": ["LIBTEST_OVERRIDE=\"Lib test overide macro defualt text\"", "LIBTEST_NOTOVERRIDE=\"Lib test macro not overide\""]
 }
