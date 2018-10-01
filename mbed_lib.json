@@ -3,7 +3,7 @@
     "config" :{
         "test_value_1": {
             "help": "test value in libTest",
-            "value" : 50
+            "value" : 150
         },
         "test_value_2": {
             "help": "test value in libTest that is required",
